@@ -2,3 +2,4 @@
 Name: Shaeena Garcia
 Program: B.S. Computer Science
 Year Level: 2nd Year
+Section: CS-201
